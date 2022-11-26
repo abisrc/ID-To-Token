@@ -11,3 +11,6 @@
     <img src="https://img.shields.io/github/issues-closed/abisrc/ID-To-Token?color=%23000000&logoColor=%23000000">
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
+## 📷 Preview
+![Loading Example...](https://i.imgur.com/wwI5B7q.gif)
