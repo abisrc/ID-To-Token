@@ -14,3 +14,9 @@
 
 ## 📷 Preview
 ![Loading Example...](https://i.imgur.com/wwI5B7q.gif)
+
+## ❌ Errors?
+- Make an [issue](https://github.com/abisrc/ID-To-Token/issues)
+- Join the [Discord](https://discord.gg/GtABQ4PyjQ)
+
+Made with :heart: and Python!
