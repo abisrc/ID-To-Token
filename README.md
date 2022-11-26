@@ -1,4 +1,4 @@
-<img src="spanish/banner.png" width="100%" height="100%" />
+<img src="image/banner.png" width="100%" height="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/abisrc/ID-To-Token?color=%23000000">
